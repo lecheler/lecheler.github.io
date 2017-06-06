@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -136,3 +137,10 @@ JB :
   
 
 theme: jekyll-theme-cayman
+=======
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
+>>>>>>> Stashed changes
