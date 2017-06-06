@@ -94,6 +94,8 @@ end
 
 ### Small image
 
+![My helpful screenshot]({{ site.url }}/assets/pouzza.png)
+
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 ### Large image
