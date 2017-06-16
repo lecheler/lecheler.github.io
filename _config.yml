@@ -13,12 +13,12 @@ sass:
 # permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
-highlighter : pygments
+highlighter : rouge
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: Luke Lecheler
+description: "Personal site"
+keywords: "luke lecheler, site"
 
 # Site settings
 url: http://nandomoreira.me
