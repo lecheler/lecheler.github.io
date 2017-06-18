@@ -13,7 +13,7 @@ sass:
 # permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
-highlighter : rouge
+highlighter : pygments
 
 # SEO settings
 title: Luke Lecheler
@@ -21,14 +21,14 @@ description: "Personal site"
 keywords: "luke lecheler, site"
 
 # Site settings
-url: http://nandomoreira.me
+# url: http://nandomoreira.me
 # baseurl: "/dotX"
 # baseurl: ""
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
+  name      : Luke Lecheler
+  job       : Educational Technology
   bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
   thumb     : /images/author.jpg
   email     : nandomoreira.me@gmail.com

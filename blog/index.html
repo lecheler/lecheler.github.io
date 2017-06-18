@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog
-subtitle: what I'm writing..
+title: A Letter from the Creator of the Universe
+subtitle: Or, how we got here
 ---
 
 <section class="post-list">
@@ -22,6 +22,7 @@ subtitle: what I'm writing..
         <h1 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
+        <h2 class="post-title">{{ post.subtitle }}</h2>
       </header>
 
       <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ post.title }}" class="read-more">Read more</a></p>
