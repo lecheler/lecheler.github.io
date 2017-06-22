@@ -4,6 +4,7 @@ title:  "Your Students are Just Numbers"
 subtitle: "Or, the Statisticians Blues*"
 permalink:  "your-students-are-just-numbers"
 date:   2017-06-14 11:58:35 -0200
+comments: true
 categories: education, learning analytics, data
 ---
 
