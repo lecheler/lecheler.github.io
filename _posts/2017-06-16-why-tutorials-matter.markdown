@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Music is Still Magic"
-subtitle: "Or, How to Lose Oneself Reliably"
-permalink:  "music-is-still-magic"
+title:  "Why Tutorials Matter"
+subtitle: "Or, My Greatest Hypocricy"
+permalink:  "why-tutorials-matter"
 date:   2017-06-01 11:58:35 -0200
 comments: true
-categories: music
+categories: tutorials
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor velit eget enim pharetra luctus. Phasellus aliquet at tortor a ullamcorper. Aliquam erat volutpat. Praesent pharetra, neque id rhoncus vehicula, nulla purus tempus nisi, sit amet tristique nibh elit quis libero. Integer nisi est, vehicula ultricies bibendum scelerisque, commodo nec sem. Vivamus vel nisl nec tellus vulputate consectetur non et orci. Morbi luctus vitae nulla molestie porta. Fusce aliquam enim quis enim tristique posuere. Donec vitae porta eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque sem est, pretium sed aliquam vel, molestie nec ex. Cras accumsan non augue id tristique. Sed ullamcorper bibendum lectus sed sodales. Nulla facilisi. Etiam eu elit blandit, scelerisque enim vel, ullamcorper odio.

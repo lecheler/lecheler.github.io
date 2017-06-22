@@ -117,7 +117,7 @@
   width: 100%;
   text-align: center;
   visibility: hidden;
-  background-color: rgba(0, 0, 0, 0.90);
+  background-color: rgba(0, 0, 0, 0.95);
   @include transition(visibility 0s $animation-duration);
 
   .navigation-wrapper {

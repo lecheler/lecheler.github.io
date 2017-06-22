@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=594acb7645093000113b894b&product=sticky-share-buttons"></script>
+<script 
+  type="text/javascript" 
+  src="//platform-api.sharethis.com/js/sharethis.js#property=594acb7645093000113b894b&product=sticky-share-buttons">    
+</script>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header intro">
@@ -17,15 +20,7 @@ layout: default
 
     {{ content }}
 
-    <footer class="site-footer">
-      <div class="container">
-        <h3>About the Author</h3>
-        <img src="/assets/images/luke-small.png" alt="Luke Lecheler" width="60px" />
-        <div>
-          Luke Lecheler is a writer, educator, musician, and developer. He currently works at Flipgrid.
-        </div>
-      </div>
-    </footer>
+    {% include author.html %}
 
   </div>
 
