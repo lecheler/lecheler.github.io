@@ -21,4 +21,7 @@ Phasellus tristique purus vel libero finibus commodo. Pellentesque pretium risus
 
 Maecenas tincidunt mollis turpis, sed eleifend sem fermentum et. Quisque ac lacinia mauris. Aliquam at enim facilisis, facilisis justo et, consectetur nisl. Nullam mi eros, luctus at euismod eu, fermentum sed lorem. Aenean at nulla sed augue luctus iaculis quis eget risus. Praesent aliquam tortor a justo ultrices, non lobortis lectus venenatis. Ut vel eros a diam interdum aliquet sed ac dui. Duis commodo erat lacinia, venenatis ex id, pharetra lectus. Praesent eget placerat ex. Ut convallis nisi vitae felis blandit dictum. Curabitur convallis nisl vehicula molestie pretium. Etiam ac feugiat nisl. Aenean sagittis scelerisque augue ut dictum. Aenean imperdiet vulputate ligula, eu semper justo molestie sit amet. Maecenas id faucibus ante.
 
-<sup>*With apologies to [Todd snider](https://www.youtube.com/watch?v=IUK6zjtUj00)</sup>
+
+## References
+
+*With apologies to [Todd snider](https://www.youtube.com/watch?v=IUK6zjtUj00)

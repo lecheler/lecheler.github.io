@@ -117,7 +117,7 @@
   width: 100%;
   text-align: center;
   visibility: hidden;
-  background-color: tint($black-color, 5%);
+  background-color: rgba(0, 0, 0, 0.90);
   @include transition(visibility 0s $animation-duration);
 
   .navigation-wrapper {
@@ -151,7 +151,7 @@
     margin-bottom: 1.7em;
     font-size: 1.3rem;
     font-weight: 800;
-    color: darken($primary-color, 5%);
+  //  color: darken($primary-color, 5%);
     text-transform: uppercase;
 
     &::after {
@@ -162,7 +162,7 @@
       bottom: -20px;
       height: 1px;
       width: 60px;
-      background-color: currentColor;
+  //    background-color: currentColor;
     }
   }
 

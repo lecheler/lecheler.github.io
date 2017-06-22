@@ -21,7 +21,7 @@ description: "Personal site"
 keywords: "luke lecheler, site"
 
 # Site settings
-# url: http://nandomoreira.me
+url: http://lecheler.github.io
 # baseurl: "/dotX"
 # baseurl: ""
 
@@ -35,6 +35,7 @@ author:
   url       : http://lecheler.github.io
   github    : http://github.com/lecheler
   twitter   : http://twitter.com/lukerighthere
+  twitter_n : lukerighthere
   facebook  : http://facebook.com/lecheler
   linkedin  : https://www.linkedin.com/in/lecheler/
 

@@ -1,2 +1,48 @@
 <script src="{{ "/assets/js/jquery-2.1.1.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.5.2/randomColor.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tinycolor/1.4.1/tinycolor.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+
+<script type="text/javascript">
+  
+  var color = randomColor({luminosity: 'dark'});
+  var dark = tinycolor(color).darken(10).toString();
+  var dark2 = tinycolor(color).darken(20).toString();
+
+  $('.intro').css('background-color', dark);
+  $('.menu-burger').css('background-color', color);
+  $('.post a').css('color', color); 
+  $('.navbar h2').css('color', color);
+  $('.post a').hover(
+    function() {
+      $(this).css("color", dark2);
+    },
+    function() {
+      $(this).css("color", color);
+    }
+  );
+
+  // post-title
+//  $('.navbar').css('color', color);
+
+</script>
+<script>
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+
+  return t;
+  }(document, "script", "twitter-wjs"));
+</script>

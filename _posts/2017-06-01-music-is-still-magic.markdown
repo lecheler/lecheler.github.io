@@ -4,6 +4,7 @@ title:  "Music is Still Magic"
 subtitle: "Or, How to Lose Oneself Reliably"
 permalink:  "music-is-still-magic"
 date:   2017-06-01 11:58:35 -0200
+comments: true
 categories: music
 ---
 

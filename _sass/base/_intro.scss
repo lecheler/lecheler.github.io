@@ -18,6 +18,21 @@ body.home-intro {
   overflow: hidden;
 }
 
+.post-intro {
+  text-align: center;
+  vertical-align: middle;
+  position: relative;
+  padding: 0 $base-spacing;
+  text-align: center;
+  color: $lighter-gray-color;
+  background: darken($primary-color, 6%);
+  overflow: hidden;
+  background-image: url(../images/luke-guitar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
 .intro-in {
   z-index: 2;
   position: relative;
@@ -65,5 +80,8 @@ body.home-intro {
 
   @include media($min-tablet-large) {
     font-size: 1.6rem;
+  }
+  a {
+    color: $lighter-gray-color;
   }
 }
