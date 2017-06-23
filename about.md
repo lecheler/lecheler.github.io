@@ -6,7 +6,7 @@ permalink: /about/
 ---
 ><img src="https://d30y9cdsu7xlg0.cloudfront.net/png/77750-200.png" width='40px' class="left" />*Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies - "God damn it, you've got to be kind.” - Kurt Vonnegut, Jr. (1965)*
 
-Luke Lecheler is a [writer](another-page), [researcher](https://scholar.google.com/citations?user=25RPAmsAAAAJ&hl=en), [designer](another-page), [developer](https://github.com/lecheler), [musician](http://therighthere.com), and [educator](http://www.cehd.umn.edu/ci/Academic-Programs/Research-Degrees/LT.html). His interests include information design for student and teacher sense- and decision-making, the philosophical criticism of relativistic epistemologies, and how art and music can affect social change. 
+TEST - Luke Lecheler is a [writer](another-page), [researcher](https://scholar.google.com/citations?user=25RPAmsAAAAJ&hl=en), [designer](another-page), [developer](https://github.com/lecheler), [musician](http://therighthere.com), and [educator](http://www.cehd.umn.edu/ci/Academic-Programs/Research-Degrees/LT.html). His interests include information design for student and teacher sense- and decision-making, the philosophical criticism of relativistic epistemologies, and how art and music can affect social change. 
 
 <iframe width="100%" height="500" src="../../assets/examples/map.html" frameborder="0"></iframe>
 
