@@ -101,6 +101,18 @@ picture {
   max-width: 100%;
 }
 
+img.left {
+  float: left;
+  width: 33%;
+  margin-right: 15px;
+}
+
+img.right {
+  float: right;
+  width: 33%;
+  margin-left: 15px;
+}
+
 code {
   background: none;
   border-radius: 0;

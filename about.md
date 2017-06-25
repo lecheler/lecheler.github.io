@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About the Author
-subtitle: Luke Lecheler
+subtitle: Is This Thing Working? Is This Thing On?*
 permalink: /about/
 ---
 
-## Is This Thing Working? Is This Thing On?*
+<img src="/assets/images/luke-big.jpg" class="left" />Luke Lecheler is a [writer](another-page), [researcher](https://scholar.google.com/citations?user=25RPAmsAAAAJ&hl=en), [designer](another-page), [developer](https://github.com/lecheler), [musician](http://therighthere.com), and [educator](http://www.cehd.umn.edu/ci/Academic-Programs/Research-Degrees/LT.html). His interests include information design for student and teacher sense- and decision-making, the philosophical criticism of relativistic epistemologies, and how art and music can affect social change. 
 
-Luke is a [writer](another-page), [researcher](https://scholar.google.com/citations?user=25RPAmsAAAAJ&hl=en), [designer](another-page), [developer](https://github.com/lecheler), [musician](http://therighthere.com), and [educator](http://www.cehd.umn.edu/ci/Academic-Programs/Research-Degrees/LT.html). His interests include information design for student and teacher sense- and decision-making, the philosophical criticism of relativistic epistemologies, and how art and music can affect social change. 
-
-![Luke Lecheler](/assets/images/luke-big.jpg)
+He holds a *BA in English & Philosophy*, an *MEd in Language Arts*, and is finishing a *PhD in Learning Technologies* - all at the University of Minnesota. He is a member of the founding team at [Flipgrid](https://info.flipgrid.com) where he writes code, nerds out on data, and slowly improves his ping pong game. 
 
 He holds a *BA in English & Philosophy*, an *MEd in Language Arts*, and is finishing a *PhD in Learning Technologies* - all at the University of Minnesota. He is a member of the founding team at [Flipgrid](https://info.flipgrid.com) where he writes code, nerds out on data, and slowly improves his ping pong game. 
 

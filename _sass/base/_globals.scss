@@ -32,6 +32,23 @@ body {
   };
 }
 
+.quote-container {
+//  background-color: #080808;
+  background-image: url("/assets/images/quote-3.png");
+  background-repeat: no-repeat;
+  padding-right: 10px;
+  padding-top: 5px;
+  text-align: center;
+}
+
+.quote {
+  font-style: italic;
+  font-size: small;
+  margin-left: 55px;
+  padding-top: 12px;
+  margin-bottom: 20px;
+}
+
 %clearfix,
 .clearfix {
   @include clearfix;
