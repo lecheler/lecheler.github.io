@@ -41,6 +41,16 @@ body {
   text-align: center;
 }
 
+blockquote {
+  font-style: italic;
+//  background-image: url("/assets/images/quote-3.png");
+//  background-repeat: no-repeat;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .quote {
   font-style: italic;
   font-size: small;

@@ -16,6 +16,7 @@ subtitle: Writings on technology, philosophy, and education
   </header>
 
   {% for post in site.posts %}
+    {% if post.published %}
     <article class="post-item container">
       <header>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -27,6 +28,7 @@ subtitle: Writings on technology, philosophy, and education
 
       <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ post.title }}" class="read-more">Read more</a></p>
     </article>
+    {% endif %}
   {% endfor %}
 
 </section>

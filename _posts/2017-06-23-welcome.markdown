@@ -4,6 +4,7 @@ title:  "Hello Babies. Welcome to Earth."
 subtitle: "Are There Any Questions? (Because I Have a Million)*"
 permalink:  "blog/welcome"
 date:   2017-06-23 11:58:35 -0200
+published: true
 comments: true
 categories: education, learning analytics, data
 quote: Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies - "God damn it, you've got to be kind.” - Kurt Vonnegut, Jr. (1965)
