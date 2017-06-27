@@ -32,31 +32,13 @@ body {
   };
 }
 
-.quote-container {
-//  background-color: #080808;
-  background-image: url("/assets/images/quote-3.png");
-  background-repeat: no-repeat;
-  padding-right: 10px;
-  padding-top: 5px;
-  text-align: center;
-}
-
 blockquote {
   font-style: italic;
-//  background-image: url("/assets/images/quote-3.png");
-//  background-repeat: no-repeat;
+  margin: 50px;
   border-top: 1px solid #e6e6e6;
   border-bottom: 1px solid #e6e6e6;
   padding-top: 10px;
   padding-bottom: 10px;
-}
-
-.quote {
-  font-style: italic;
-  font-size: small;
-  margin-left: 55px;
-  padding-top: 12px;
-  margin-bottom: 20px;
 }
 
 %clearfix,

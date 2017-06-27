@@ -5,8 +5,9 @@ subtitle: "or, Seeing Profoundly"
 permalink:  "blog/dangers-of-relativity"
 date:   2017-06-23 11:58:35 -0200
 comments: true
+published: true
 categories: education, learning analytics, data
-quote: “The commonality between science and art is in trying to see profoundly—to develop strategies of seeing and showing.” - Tufte
+quote: “The commonality between science and art is in trying to see profoundly — to develop strategies of seeing and showing.” - Edward Tufte (2006)
 ---
 
 Computers and the internet have had a

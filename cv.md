@@ -5,7 +5,7 @@ subtitle: Luke Lecheler
 permalink: /cv/
 ---
 
-### Education 
+## Education 
 
 * Ph.D., Learning Technologies, University of Minnesota, 2017 (expected) 
 
@@ -14,15 +14,15 @@ permalink: /cv/
 * B.A., English Literature and Philosophy, University of Minnesota, 2005
 
 
-### Dissertation
+## Dissertation
 
 Lecheler, L. (2017). *Pedagogical Reasoning in Data-Driven Contexts: The Impact of Information Visualization Techniques on Teacher Sense- and Decision-Making*
 
-### Expertise
+## Expertise
 
 I specialize in the design, development, technical implementation, and pedagogical integration of technology-mediated learning. Specifically, I emphasize on the collection, analysis, and display of data in interactive and motivating ways to develop student and teacher sense- and decision-making.
 
-#### Professional Experience
+### Professional Experience
 
 #### Teaching
 
@@ -30,15 +30,15 @@ I specialize in the design, development, technical implementation, and pedagogic
 
 * CIXXXX (20xx)
 
-#### Research
+### Research
 
-#### Service
+### Service
 
-#### Work Experience
+### Work Experience
 
 ### Grants and Funding
 
-### Publications
+## Publications
 
 **Peer reviewed*
 
@@ -49,7 +49,7 @@ I specialize in the design, development, technical implementation, and pedagogic
 - Miller, C., Lecheler, L., & Rose, S. (2012). *Avenue: Innovation and transformation in world language, reading, and writing e-assessment*. In Hill Duin, A., Nater, E. A., & Anklesaria, F. X., Cultivating change in the academy: 50+ stories from the digital front lines at the University of Minnesota in 2012.
 
 
-### Presentations and Proceedings
+## Presentations and Proceedings
 
 **Invited*
 
@@ -81,3 +81,9 @@ Miller, C., & Lecheler, L. (2009). *InfoViz for education: Using interactive inf
 Lecheler, L. (2009). *An introduction to Confetti*. Presented at the University of Minnesota Learning Technologies (re)desine Event, Minneapolis, Minnesota.
 
 Lecheler, L. (2009). *Design and development of Confetti*. Presented at the Curriculum and Instruction Graduate Student Research Day, Minneapolis, Minnesota.
+
+## Writing Credits
+
+Lecheler, L. (2016). A letter from the creator of the universe [Recorded by The Right Here]. On *Stick to the plan* [record]. Lawrence, KS: Throwing Things Records.
+
+

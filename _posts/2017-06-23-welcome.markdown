@@ -10,9 +10,19 @@ categories: education, learning analytics, data
 quote: Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies - "God damn it, you've got to be kind.” - Kurt Vonnegut, Jr. (1965)
 ---
 
-The intersection of art, technology, philosophy, and education.
+# Welcome
 
-One of my areas of expertise is information design, so here's a diagram of how these things, in my mind, interact:
+I've always been drawn to the intersection of art, technology, philosophy, and education. I've written and presented on many topics in the EdTech space over many years and in many places. I've also balanced my time (somehow) with creative endeavors - looping around North America, playing music for anyone who will listen, starting joke bands that only play one show, designing t-shirts, screenprinting posters, and writing some songs that are, every once in awhile, sung right back at me in basements and bars nestled in strange, beautiful, and often overlooked corners of this country.
+
+I'm a big believer in cultivating broad and diverse interests and thinking about how seemingly unrelated domains can impact each other. This site will be, first and foremost, a collection of technical and professional writings. But I can and will not resist my urge to let music, art, and literature permeate the text. I will shamelessly steal post titles from the writers I love. I will show the reader how to implement visualizations, but there will be no stock datasets, only the collections of cities I've seen, places I've been, and music I've fallen in love with.
+
+My primary work is at Flipgrid - a small research center turned Minneapolis EdTech startup that I've had the pleasure of being with since the very beginning. Our only concern every day when we get to work is student voice. We make no pedagogical assumptions (although we all have pedagogical opinions). We carry no ego regarding engineering prowess or aesthetic intuition. We simply enable, afford, and amplify.
+
+# What It Is
+
+
+
+Are there any questions? Because I have a million. So let's begin.
 
 ## References
 
